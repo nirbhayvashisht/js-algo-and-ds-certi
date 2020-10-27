@@ -1,0 +1,2 @@
+const myFirstName = "Nirbhay";
+const myLastName = "Vashisht";
