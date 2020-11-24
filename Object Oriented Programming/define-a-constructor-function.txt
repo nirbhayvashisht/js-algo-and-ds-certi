@@ -1,0 +1,7 @@
+class Dog{
+    constructor(){
+        this.name='name';
+        this.color='Red';
+        this.numLegs=4;
+    }
+}
